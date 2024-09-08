@@ -3,12 +3,12 @@
 ## About Me
 
 - 🎓 I'm currently a senior at Arizona State University, pursuing a Bachelor's degree in **Computer Science** with a minor in **Mathematics**.
-- 🌱 This summer, I'm excited to start my journey as a **Data Science Intern** at **MetLife**.
+- 🌱 I'm excited to start my journey as a full-time **Data Engineer** at **MetLife**.
 - 🌍 Originally from India, I've spent eight years living in Mexico and am now based in the United States!
 
 ## Technical Skills
 
-- **Languages:** C++, Python, Java, JavaScript/TypeScript, Go
+- **Languages:** Python, C++, Java, JavaScript/TypeScript, Go
 
 ## Connect with Me
 
